@@ -1,4 +1,4 @@
-# Dockerfile for OpenDaVINCI on Fedora 21
+# Dockerfile for OpenDaVINCI on Fedora 23
 These Docker build instructions contain all required dependencies to run
 applications that are realized with OpenDaVINCI (http://www.opendavinci.org,
 http://code.opendavinci.org).

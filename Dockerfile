@@ -17,7 +17,7 @@
 #
 # Date: 2016-03-05
 
-FROM fedora:21
+FROM fedora:23
 MAINTAINER Christian Berger "christian.berger@gu.se"
 
 RUN yum -y update && \

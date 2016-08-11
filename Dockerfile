@@ -30,6 +30,8 @@ RUN yum -y install \
     boost-devel \
     cmake \
     freeglut-devel \
+    git \
+    python2 \
     gcc \
     gcc-c++ \
     iproute \

@@ -45,3 +45,6 @@ RUN dnf -y install \
     wget
 
 RUN dnf -y install gdb-gdbserver
+
+RUN dnf -y install ncurses-devel
+
